@@ -1,0 +1,82 @@
+<!-- About Section -->
+    <section id="how-it-works">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">How It Works</h2>
+                    <h3 class="section-subheading text-muted">Simple step-by-step explanation of the one minute randomness generation.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>00'' - 30''</h4>
+                                    <h4 class="subheading">Entropy Collection</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">During the first half of the current minute a process of recollection of entropy is carried out, obtaining
+                                    data from several sources that provide random data (earthquakes, twitter, radio stations).</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>30''</h4>
+                                    <h4 class="subheading">Local Random Value Generation</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">A local random value is generated using a RNG hardware in CLCERT's dependencies. This value must be commited to
+                                        using a hash function. This commitment is published in the current minute and the value <i>per se</i> is used in the next minute.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>30'' - 55''</h4>
+                                    <h4 class="subheading">Slow Hashing and Signature</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">All the previous values (plus some other ones) are signed by CLCERT. This signature then is processed by an slow hash function that takes around 25 seconds to generate a digest.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>60''</h4>
+                                    <h4 class="subheading">Randomness Publication</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Finally the digest value generated before (512 bits) is published as the randomness value generated in the current minute and available for all the community.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Use the
+                                    <br>Random
+                                    <br>Number</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>

@@ -1,0 +1,66 @@
+url: https://beacon.clcert.cl
+baseurl: 
+
+# Site settings
+title: CLCERT Random Beacon
+email: beacon@clcert.cl
+description: "Site for the CLCERT Random Beacon service, providing autonomous, unpredictable, consistent and verifiable randomness."
+
+
+# Team names, titles and social links
+people:
+- name: Alejandro Hevia
+  pic: 1
+  position: Principal Investigator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Camilo Gómez
+  pic: 2
+  position: Main Engineer and Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Cristián Rojas
+  pic: 3
+  position: Software Security Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Sergio Miranda
+  pic: 3
+  position: Network Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/clcert
+  - title: github
+    url: http://github.com/clcert
+
+# Build settings
+markdown: kramdown
+permalink: pretty

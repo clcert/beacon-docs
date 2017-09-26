@@ -10,47 +10,39 @@ description: "Site for the CLCERT Random Beacon service, providing autonomous, u
 # Team names, titles and social links
 people:
 - name: Alejandro Hevia
-  pic: 1
+  pic: alejandro
   position: Principal Investigator
   social:
+    - title: envelope
+      url: mailto:ahevia@dcc.uchile.cl
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.twitter.com/ahevia
 
 - name: Camilo Gómez
-  pic: 2
+  pic: camilo
   position: Main Engineer and Developer
   social:
+    - title: envelope
+      url: mailto:cgomez@clcert.cl
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.twitter.com/milogomez__
 
 - name: Cristián Rojas
-  pic: 3
+  pic: cristian
   position: Software Security Engineer
   social:
+    - title: envelope
+      url: mailto:crirojas@clcert.cl
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.twitter.com/InjenieroBarsa
 
 - name: Sergio Miranda
-  pic: 3
+  pic: sergio
   position: Network Engineer
   social:
+    - title: envelope
+      url: #
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 

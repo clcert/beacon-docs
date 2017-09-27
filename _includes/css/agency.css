@@ -512,6 +512,7 @@ section h3.section-subheading {
     width: 156px;
     height: 156px;
     object-fit: cover;
+    max-height: 100%;
 }
 
 .timeline>li.timeline-inverted>.timeline-panel {

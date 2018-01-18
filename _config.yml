@@ -6,7 +6,6 @@ title: CLCERT Random Beacon
 email: beacon@clcert.cl
 description: "Site for the CLCERT Random Beacon service, providing autonomous, unpredictable, consistent and verifiable randomness."
 
-
 # Team names, titles and social links
 people:
 - name: Alejandro Hevia
@@ -36,6 +35,15 @@ people:
     - title: twitter
       url: https://www.twitter.com/InjenieroBarsa
 
+- name: Constanza Csori
+  pic: constanza
+  position: Graduate Student Researcher
+  social:
+    - title: envelope
+      url: #
+    - title: twitter
+      url: #
+
 - name: Sergio Miranda
   pic: sergio
   position: Network Engineer
@@ -44,7 +52,6 @@ people:
       url: #
     - title: twitter
       url: #
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

@@ -28,7 +28,7 @@ The data we currently collect about you, in our day-to-day web operations,
 is the following:
 
 * Your IP address
-* <What else? I don't see anything in docker config, since our logs go to stdout>
+* Your User Agent (Browser name, version and operating system)
 
 # Your Access to and Control Over Information
 

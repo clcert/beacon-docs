@@ -29,6 +29,7 @@ is the following:
 
 * Your IP address
 * Your User Agent (Browser name, version and operating system)
+* Visited pages in our website
 
 # Your Access to and Control Over Information
 

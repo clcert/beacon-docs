@@ -61,4 +61,4 @@ information. The computers/servers in which we store personally identifiable
 information are kept in a secure environment.
 
 If you feel that we are not abiding by this privacy policy, you should contact
-us immediately via telephone at XXX YYY-ZZZZ or via email.
+us immediately via email at <beacon@clcert.cl>.

@@ -1,8 +1,8 @@
 ![](https://www.clcert.cl/img/logo-clcert.png)
 
-# CLCERT Random Beacon Project
+# CLCERT Randomness Beacon Project
 
-The [CLCERT Random Beacon Project](https://beacon.clcert.cl) provides a public randomness service which is unpredictable, autonomous, consistent, and externally verifiable.
+The [CLCERT Randomness Beacon Project](https://beacon.clcert.cl) provides a public randomness service which is unpredictable, autonomous, consistent, and externally verifiable.
 
 The project itself is designed following a micro-services architecture, hence several different modules operate together in order to provide the service. Each of this modules is highly especialized and performs a concrete task inside the system.
 

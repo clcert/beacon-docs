@@ -28,3 +28,6 @@ to know about the architecture, security and troubleshooting of our project.
 
 In the `architecture/` folder there are several diagrams showing the architecture of the service in different stages of the project.
 
+### Algorithm
+
+In the `algorithm/` folder there are images describing the algorithm used to generate the randomness output.
